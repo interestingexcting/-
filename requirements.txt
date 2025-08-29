@@ -1,0 +1,15 @@
+# Python数据分析脚本依赖包
+# 用于全自动月度数据分析
+
+# 数据处理和分析
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Excel文件读写
+openpyxl>=3.0.0
+
+# 可选：更好的Excel处理性能
+xlsxwriter>=3.0.0
+
+# 数据类型检测和处理
+python-dateutil>=2.8.0
